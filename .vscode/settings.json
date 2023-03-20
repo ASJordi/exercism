@@ -1,0 +1,7 @@
+{
+  "conventionalCommits.scopes": [
+    "java",
+    "python",
+    "js"
+  ]
+}
