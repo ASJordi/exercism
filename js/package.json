@@ -8,7 +8,7 @@
   "author": "Jordi Ayala",
   "license": "ISC",
   "scripts": {
-    "dev": "nodemon src/ex-014.js",
+    "dev": "nodemon src/ex-015.js",
     "test": "jest",
     "test:watch": "npm run test -- --watch"
   },
