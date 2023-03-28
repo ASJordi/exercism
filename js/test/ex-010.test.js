@@ -1,4 +1,4 @@
-import { gigasecond } from '../src/ex-010.js'
+import { gigasecond } from '../src/easy/ex-010.js'
 
 describe('Gigasecond', () => {
   // date only specification of time

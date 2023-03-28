@@ -1,4 +1,4 @@
-import { totalBirdCount, birdsInWeek, fixBirdCountLog } from '../src/ex-008.js'
+import { totalBirdCount, birdsInWeek, fixBirdCountLog } from '../src/easy/ex-008.js'
 
 describe('totalBirdCount', () => {
   test('calculates the correct total number of birds', () => {

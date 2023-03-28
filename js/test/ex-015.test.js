@@ -1,5 +1,5 @@
 /* eslint-disable no-new */
-import { DiffieHellman } from '../src/ex-015.js'
+import { DiffieHellman } from '../src/easy/ex-015.js'
 
 describe('diffie-hellman', () => {
   test('throws an error if the constructor arguments are out of range', () => {

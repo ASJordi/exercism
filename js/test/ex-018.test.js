@@ -1,4 +1,4 @@
-import { rotate } from '../src/ex-018.js'
+import { rotate } from '../src/easy/ex-018.js'
 
 describe('Rotational cipher', () => {
   test('rotate a by 0, same output as input', () => {

@@ -1,4 +1,4 @@
-import { isLeap } from '../src/ex-012.js'
+import { isLeap } from '../src/easy/ex-012.js'
 
 describe('A leap year', () => {
   test('year not divisible by 4 in common year', () => {

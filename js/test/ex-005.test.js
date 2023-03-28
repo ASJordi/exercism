@@ -3,7 +3,7 @@ import {
   backDoorResponse,
   frontDoorPassword,
   backDoorPassword
-} from '../src/ex-005.js'
+} from '../src/easy/ex-005.js'
 
 const recite = (poem, responseFn) => {
   return poem.map((line) => responseFn(line))

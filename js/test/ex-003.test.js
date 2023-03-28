@@ -1,4 +1,4 @@
-import { canExecuteFastAttack, canSpy, canSignalPrisoner, canFreePrisoner } from '../src/ex-003.js'
+import { canExecuteFastAttack, canSpy, canSignalPrisoner, canFreePrisoner } from '../src/easy/ex-003.js'
 
 test('can execute fast attack > when the knight is awake', () => {
   const knightIsAwake = true

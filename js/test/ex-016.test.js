@@ -1,4 +1,4 @@
-import { isPaired } from '../src/ex-016.js'
+import { isPaired } from '../src/easy/ex-016.js'
 
 describe('Matching Brackets', () => {
   test('paired square brackets', () => {

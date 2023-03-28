@@ -1,4 +1,4 @@
-import { dayRate, daysInBudget, priceWithMonthlyDiscount } from '../src/ex-004.js'
+import { dayRate, daysInBudget, priceWithMonthlyDiscount } from '../src/easy/ex-004.js'
 
 const DIFFERENCE_PRECISION_IN_DIGITS = 0.0000005
 

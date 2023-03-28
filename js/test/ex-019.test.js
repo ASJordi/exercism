@@ -1,4 +1,4 @@
-import { prime } from '../src/ex-019.js'
+import { prime } from '../src/medium/ex-019.js'
 
 describe('nth-prime', () => {
   test('first prime', () => {
