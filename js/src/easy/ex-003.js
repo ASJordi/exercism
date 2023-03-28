@@ -1,8 +1,3 @@
-const knightIsAwake = false
-const archerIsAwake = false
-const prisonerIsAwake = false
-const petDogIsPresent = true
-
 export function canExecuteFastAttack (knightIsAwake) {
   return !knightIsAwake
 }

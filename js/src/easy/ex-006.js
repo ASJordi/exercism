@@ -1,8 +1,3 @@
-const position = 2
-const replacementCard = 6
-const newCard = 8
-const stackSize = 4
-
 export function getItem (arr, position) {
   return arr[position]
 }
