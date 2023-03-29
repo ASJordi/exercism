@@ -16,8 +16,8 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
   <summary>JavaScript</summary>
   <ul>
     <details>
-      <summary><a href="js/src/easy">Easy</a></summary>
-      <ol>
+      <summary>Easy</summary>
+      <ol type="1">
         <li><a href="js/src/easy/ex-001.js">Hello World</a></li>
         <li><a href="js/src/easy/ex-002.js">Lucian's Luscious Lasagna</a></li>
         <li><a href="js/src/easy/ex-003.js">Annalyn's Infiltration</a></li>
@@ -40,14 +40,14 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       </ol>
     </details>
     <details>
-      <summary><a href="js/src/medium">Medium</a></summary>
-      <ol>
+      <summary>Medium</summary>
+      <ol type="1">
         <li><a href="js/src/medium/ex-001.js">Nth Prime</a></li>
         <li><a href="js/src/medium/ex-002.js">Sieve</a></li>
       </ol>
     </details>
     <details>
-      <summary><a href="js/src/hard">Hard</a></summary>
+      <summary>Hard</summary>
     </details>
   </ul>
 </details>
