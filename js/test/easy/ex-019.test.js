@@ -1,4 +1,4 @@
-import { isArmstrongNumber } from '../src/easy/ex-021.js'
+import { isArmstrongNumber } from '../../src/easy/ex-019.js'
 
 describe('Armstrong Numbers', () => {
   test('Zero is an Armstrong number', () => {

@@ -1,4 +1,4 @@
-import { primes } from '../src/medium/ex-020.js'
+import { primes } from '../../src/medium/ex-002.js'
 
 describe('Sieve', () => {
   test('no primes under two', () => {

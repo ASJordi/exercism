@@ -1,4 +1,4 @@
-import { EXPECTED_MINUTES_IN_OVEN, remainingMinutesInOven, preparationTimeInMinutes, totalTimeInMinutes } from '../src/easy/ex-002.js'
+import { EXPECTED_MINUTES_IN_OVEN, remainingMinutesInOven, preparationTimeInMinutes, totalTimeInMinutes } from '../../src/easy/ex-002.js'
 
 test('EXPECTED_MINUTES_IN_OVEN > constant is defined correctly', () => {
   expect(EXPECTED_MINUTES_IN_OVEN).toBe(40)

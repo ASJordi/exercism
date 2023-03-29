@@ -1,4 +1,4 @@
-import { score } from '../src/easy/ex-013.js'
+import { score } from '../../src/easy/ex-013.js'
 
 describe('Darts', () => {
   test('Missed target', () => {

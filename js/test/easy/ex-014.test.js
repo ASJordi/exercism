@@ -1,4 +1,4 @@
-import { findAnagrams } from '../src/easy/ex-014.js'
+import { findAnagrams } from '../../src/easy/ex-014.js'
 
 describe('Anagram', () => {
   test('no matches', () => {

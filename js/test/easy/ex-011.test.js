@@ -1,4 +1,4 @@
-import { convert } from '../src/easy/ex-011.js'
+import { convert } from '../../src/easy/ex-011.js'
 
 describe('Raindrops', () => {
   test('the sound for 1 is 1', () => expect(convert(1)).toEqual('1'))

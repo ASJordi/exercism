@@ -1,4 +1,4 @@
-import { toRoman } from '../src/easy/ex-017.js'
+import { toRoman } from '../../src/easy/ex-017.js'
 
 describe('toRoman()', () => {
   test('converts 1', () => expect(toRoman(1)).toEqual('I'))

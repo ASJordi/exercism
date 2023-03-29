@@ -7,7 +7,7 @@ import {
   removeItemFromTop,
   removeItemAtBottom,
   checkSizeOfStack
-} from '../src/easy/ex-006.js'
+} from '../../src/easy/ex-006.js'
 
 describe('pick a card', () => {
   test('get the first card', () => {

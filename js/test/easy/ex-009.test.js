@@ -1,4 +1,4 @@
-import { timeToMixJuice, limesToCut, remainingOrders } from '../src/easy/ex-009.js'
+import { timeToMixJuice, limesToCut, remainingOrders } from '../../src/easy/ex-009.js'
 
 describe('timeToMixJuice', () => {
   test("returns the correct time for 'Pure Strawberry Joy'", () => {
