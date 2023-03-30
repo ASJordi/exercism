@@ -44,6 +44,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       <ol type="1">
         <li><a href="js/src/medium/ex-001.js">Nth Prime</a></li>
         <li><a href="js/src/medium/ex-002.js">Sieve</a></li>
+        <li><a href="js/src/medium/ex-003.js">Twelve Days</a></li>
       </ol>
     </details>
     <details>
