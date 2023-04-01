@@ -47,6 +47,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="js/src/medium/ex-003.js">Twelve Days</a></li>
         <li><a href="js/src/medium/ex-004.js">Prime Factors</a></li>
         <li><a href="js/src/medium/ex-005.js">Flatten Array</a></li>
+        <li><a href="js/src/medium/ex-006.js">Pascal's Triangle</a></li>
       </ol>
     </details>
     <details>
