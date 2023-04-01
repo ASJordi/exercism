@@ -45,7 +45,8 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="js/src/medium/ex-001.js">Nth Prime</a></li>
         <li><a href="js/src/medium/ex-002.js">Sieve</a></li>
         <li><a href="js/src/medium/ex-003.js">Twelve Days</a></li>
-        <li><a href="js/src/medium/ex-003.js">Prime Factors</a></li>
+        <li><a href="js/src/medium/ex-004.js">Prime Factors</a></li>
+        <li><a href="js/src/medium/ex-005.js">Flatten Array</a></li>
       </ol>
     </details>
     <details>
