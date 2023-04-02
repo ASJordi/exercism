@@ -37,6 +37,9 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="js/src/easy/ex-017.js">Roman Numerals</a></li>
         <li><a href="js/src/easy/ex-018.js">Rotational Cipher</a></li>
         <li><a href="js/src/easy/ex-019.js">Armstrong Numbers</a></li>
+        <li><a href="js/src/easy/ex-020.js">D&D Character</a></li>
+        <li><a href="js/src/easy/ex-021.js">Run-Length Encoding</a></li>
+        <li><a href="js/src/easy/ex-022.js">Protein Translation</a></li>
       </ol>
     </details>
     <details>
