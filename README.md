@@ -60,6 +60,25 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
     </details>
   </ul>
 </details>
+<details>
+  <summary>Java</summary>
+  <ul>
+    <details>
+      <summary>Easy</summary>
+      <ol type="1">
+        <li><a href="java/src/main/java/easy/Greeter.java">Hello World</a></li>
+      </ol>
+    </details>
+    <details>
+      <summary>Medium</summary>
+      <ol type="1">
+      </ol>
+    </details>
+    <details>
+      <summary>Hard</summary>
+    </details>
+  </ul>
+</details>
 
 
 ## Contribuciones :handshake:
