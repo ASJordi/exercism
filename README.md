@@ -67,6 +67,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       <summary>Easy</summary>
       <ol type="1">
         <li><a href="java/src/main/java/easy/Greeter.java">Hello World</a></li>
+        <li><a href="java/src/main/java/easy/Lasagna.java">Cook your lasagna</a></li>
       </ol>
     </details>
     <details>
