@@ -72,6 +72,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/Twofer.java">Two Fer</a></li>
         <li><a href="java/src/main/java/easy/ReverseString.java">Reverse String</a></li>
         <li><a href="java/src/main/java/easy/MicroBlog.java">Micro Blog</a></li>
+        <li><a href="java/src/main/java/easy/ArmstrongNumbers.java">Armstrong Numbers</a></li>
       </ol>
     </details>
     <details>
