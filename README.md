@@ -73,6 +73,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/ReverseString.java">Reverse String</a></li>
         <li><a href="java/src/main/java/easy/MicroBlog.java">Micro Blog</a></li>
         <li><a href="java/src/main/java/easy/ArmstrongNumbers.java">Armstrong Numbers</a></li>
+        <li><a href="java/src/main/java/easy/SqueakyClean.java">Squeaky Clean</a></li>
       </ol>
     </details>
     <details>
