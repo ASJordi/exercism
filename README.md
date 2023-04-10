@@ -79,6 +79,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/AnnalynsInfiltration.java">Annalyn's Infiltration</a></li>
         <li><a href="java/src/main/java/easy/Leap.java">Leap</a></li>
         <li><a href="java/src/main/java/easy/PangramChecker.java">Pangram</a></li>
+        <li><a href="java/src/main/java/easy/Acronym.java">Acronym</a></li>
       </ol>
     </details>
     <details>
