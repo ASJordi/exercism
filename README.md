@@ -76,6 +76,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/SqueakyClean.java">Squeaky Clean</a></li>
         <li><a href="java/src/main/java/easy/Hamming.java">Hamming</a></li>
         <li><a href="java/src/main/java/easy/DifferenceOfSquaresCalculator.java">Difference of Squares</a></li>
+        <li><a href="java/src/main/java/easy/AnnalynsInfiltration.java">Annalyn's Infiltration</a></li>
       </ol>
     </details>
     <details>
