@@ -83,6 +83,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/Blackjack.java">Play Your Cards!</a></li>
         <li><a href="java/src/main/java/easy/ResistorColor.java">Resistor Color</a></li>
         <li><a href="java/src/main/java/easy/ResistorColorDuo.java">Resistor Color Duo</a></li>
+        <li><a href="java/src/main/java/easy/BirdWatcher.java">Bird Watcher</a></li>
       </ol>
     </details>
     <details>
