@@ -85,6 +85,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/ResistorColorDuo.java">Resistor Color Duo</a></li>
         <li><a href="java/src/main/java/easy/BirdWatcher.java">Bird Watcher</a></li>
         <li><a href="java/src/main/java/easy/NaturalNumber.java">Perfect Numbers</a></li>
+        <li><a href="java/src/main/java/easy/CarsAssemble.java">Cars, Assemble!</a></li>
       </ol>
     </details>
     <details>
