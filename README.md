@@ -87,6 +87,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/NaturalNumber.java">Perfect Numbers</a></li>
         <li><a href="java/src/main/java/easy/CarsAssemble.java">Cars, Assemble!</a></li>
         <li><a href="java/src/main/java/easy/Scrabble.java">Scrabble Score</a></li>
+        <li><a href="java/src/main/java/easy/Grains.java">Grains</a></li>
       </ol>
     </details>
     <details>
