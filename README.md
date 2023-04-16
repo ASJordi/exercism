@@ -92,6 +92,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/SpaceAge.java">Space Age</a></li>
         <li><a href="java/src/main/java/easy/RaindropConverter.java">Raindrops</a></li>
         <li><a href="java/src/main/java/easy/LanguageList.java">Karl's Languages</a></li>
+        <li><a href="java/src/main/java/easy/SalaryCalculator.java">Salary Calculator</a></li>
       </ol>
     </details>
     <details>
