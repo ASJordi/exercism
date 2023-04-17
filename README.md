@@ -99,6 +99,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       <summary>Medium</summary>
       <ol type="1">
         <li><a href="java/src/main/java/medium/IsogramChecker.java">Isogram</a></li>
+        <li><a href="java/src/main/java/medium/PrimeCalculator.java">Nth Prime</a></li>
       </ol>
     </details>
     <details>
