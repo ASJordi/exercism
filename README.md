@@ -103,6 +103,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/PrimeCalculator.java">Nth Prime</a></li>
         <li><a href="java/src/main/java/medium/BracketChecker.java">Matching Brackets</a></li>
         <li><a href="java/src/main/java/medium/Triangle.java">Triangle</a></li>
+        <li><a href="java/src/main/java/medium/Anagram.java">Anagram</a></li>
       </ol>
     </details>
     <details>
