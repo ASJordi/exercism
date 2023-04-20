@@ -105,6 +105,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/Triangle.java">Triangle</a></li>
         <li><a href="java/src/main/java/medium/Anagram.java">Anagram</a></li>
         <li><a href="java/src/main/java/medium/LuhnValidator.java">Luhn</a></li>
+        <li><a href="java/src/main/java/medium/TwelveDays.java">Twelve Days</a></li>
       </ol>
     </details>
     <details>
