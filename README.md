@@ -113,6 +113,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/WordProblemSolver.java">Wordy</a></li>
         <li><a href="java/src/main/java/medium/RelationshipComputer.java">Sublist</a></li>
         <li><a href="java/src/main/java/medium/Flattener.java">Flatten Array</a></li>
+        <li><a href="java/src/main/java/medium/WordCount.java">Word Count</a></li>
       </ol>
     </details>
     <details>
