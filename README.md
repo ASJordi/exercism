@@ -100,6 +100,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/NeedForSpeed.java">Need for Speed</a></li>
         <li><a href="java/src/main/java/easy/FootballMatchReports.java">Football Match Reports</a></li>
         <li><a href="java/src/main/java/easy/Badge.java">Tim from Marketing</a></li>
+        <li><a href="java/src/main/java/easy/CalculatorConundrum.java">Calculator Conundrum</a></li>
       </ol>
     </details>
     <details>
