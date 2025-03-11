@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: easy.RaindropConverterTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.RaindropConverterTest
+easy.RaindropConverterTest.soundFor27IsPlingAsItHasFactor3 -- Time elapsed: 0.016 s
+easy.RaindropConverterTest.soundFor14IsPlongAsItHasFactor7 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor7IsPlong -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor9IsPlingAsItHasFactor3 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor35IsPlangPlongAsItHasFactors5And7 -- Time elapsed: 0 s
+easy.RaindropConverterTest.noSoundFor2Cubed -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor5IsPlang -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor21IsPlingPlongAsItHasFactors3And7 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor25IsPlangAsItHasFactor5 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor105IsPlingPlangPlongAsItHasFactors3And5And7 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor1Is1 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor10IsPlangAsItHasFactor5 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor49IsPlongAsItHasFactor7 -- Time elapsed: 0.015 s
+easy.RaindropConverterTest.soundFor3IsPling -- Time elapsed: 0 s
+easy.RaindropConverterTest.noSoundFor52 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor6IsPlingAsItHasFactor3 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor3125IsPlangAsItHasFactor5 -- Time elapsed: 0 s
+easy.RaindropConverterTest.soundFor15IsPlingPlangAsItHasFactors3And5 -- Time elapsed: 0 s

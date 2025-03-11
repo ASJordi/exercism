@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: easy.SpaceAgeTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s -- in easy.SpaceAgeTest
+easy.SpaceAgeTest.ageOnSaturn -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnUranus -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnJupiter -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnMercury -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnEarth -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnVenus -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnMars -- Time elapsed: 0 s
+easy.SpaceAgeTest.ageOnNeptune -- Time elapsed: 0 s

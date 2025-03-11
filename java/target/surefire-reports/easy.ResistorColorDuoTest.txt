@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: easy.ResistorColorDuoTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in easy.ResistorColorDuoTest
+easy.ResistorColorDuoTest.testBrownAndBlack -- Time elapsed: 0.016 s
+easy.ResistorColorDuoTest.testBlueAndGrey -- Time elapsed: 0 s
+easy.ResistorColorDuoTest.testOrangeAndOrange -- Time elapsed: 0.016 s
+easy.ResistorColorDuoTest.testYellowAndViolet -- Time elapsed: 0 s
+easy.ResistorColorDuoTest.testIgnoreAdditionalColors -- Time elapsed: 0 s

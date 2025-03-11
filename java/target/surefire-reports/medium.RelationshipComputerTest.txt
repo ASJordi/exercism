@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: medium.RelationshipComputerTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.025 s -- in medium.RelationshipComputerTest
+medium.RelationshipComputerTest.testEmptyListIsSublistOfNonEmptyList -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testThatListsWithSameDigitsButDifferentNumbersAreUnequal -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testSublistCheckDoesNotAbortAfterFalseStart -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testInMiddleOfSuperlist -- Time elapsed: 0.015 s
+medium.RelationshipComputerTest.testListIsEqualToItself -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testDifferentListsOfTheSameLengthAreUnequal -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testSublistAtEnd -- Time elapsed: 0.004 s
+medium.RelationshipComputerTest.testAtEndOfSuperlist -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testSublistInMiddle -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testSublistAtStart -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testFirstListMissingElementFromSecondList -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testSecondListMissingElementFromFirstList -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testThatListOrderingIsAccountedFor -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testSublistCheckHandlesExtraneousRepeatsOfFirstEntry -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testNonEmptyListIsSuperlistOfEmptyList -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testThatTwoEmptyListsAreConsideredEqual -- Time elapsed: 0 s
+medium.RelationshipComputerTest.testAtStartOfSuperlist -- Time elapsed: 0 s

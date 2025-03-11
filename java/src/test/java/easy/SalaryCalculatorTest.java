@@ -1,8 +1,7 @@
 package easy;
 
-import org.junit.Before;
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.BeforeEach;
 import static org.assertj.core.api.Assertions.*;
 
 
@@ -10,8 +9,7 @@ public class SalaryCalculatorTest {
 
     public SalaryCalculator calculator;
 
-
-    @Before
+    @BeforeEach
     public void setUp() {
         calculator = new SalaryCalculator();
     }

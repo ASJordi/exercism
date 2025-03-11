@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: easy.ScrabbleScoreTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 s -- in easy.ScrabbleScoreTest
+easy.ScrabbleScoreTest.testAShortValuableWord -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testEntireAlphabetAvailable -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testAUpperCaseLetter -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testALongMixCaseWord -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testAEnglishLikeWord -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testAValuableLetter -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testALowerCaseLetter -- Time elapsed: 0.016 s
+easy.ScrabbleScoreTest.testAMediumWord -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testAnEmptyInput -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testAShortWord -- Time elapsed: 0 s
+easy.ScrabbleScoreTest.testAMediumValuableWord -- Time elapsed: 0.008 s

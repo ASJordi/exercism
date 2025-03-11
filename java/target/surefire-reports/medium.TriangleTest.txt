@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: medium.TriangleTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.020 s -- in medium.TriangleTest
+medium.TriangleTest.verySmallTrianglesCanBeEquilateral -- Time elapsed: 0 s
+medium.TriangleTest.isoscelesTrianglesHaveLastTwoSidesEqual -- Time elapsed: 0 s
+medium.TriangleTest.trianglesWithOneUnequalSideAreNotEquilateral -- Time elapsed: 0 s
+medium.TriangleTest.scaleneTrianglesHaveNoEqualSides -- Time elapsed: 0 s
+medium.TriangleTest.trianglesWithNoEqualSidesAreNotEquilateral -- Time elapsed: 0 s
+medium.TriangleTest.isoscelesTrianglesHaveFirstAndLastSidesEqual -- Time elapsed: 0 s
+medium.TriangleTest.mayNotViolateTriangleInequality -- Time elapsed: 0 s
+medium.TriangleTest.firstTriangleInequalityViolation -- Time elapsed: 0.016 s
+medium.TriangleTest.twoSidesEqualAreNotScalene -- Time elapsed: 0 s
+medium.TriangleTest.thirdTriangleInequalityViolation -- Time elapsed: 0 s
+medium.TriangleTest.allSidesEqualAreNotScalene -- Time elapsed: 0.004 s
+medium.TriangleTest.equilateralTrianglesHaveEqualSides -- Time elapsed: 0 s
+medium.TriangleTest.trianglesWithNoSizeAreIllegal -- Time elapsed: 0 s
+medium.TriangleTest.isoscelesTrianglesHaveTwoFirstSidesEqual -- Time elapsed: 0 s
+medium.TriangleTest.equilateralTrianglesAreAlsoIsosceles -- Time elapsed: 0 s
+medium.TriangleTest.verySmallTrianglesCanBeIsosceles -- Time elapsed: 0 s
+medium.TriangleTest.noSidesAreEqualCantBeIsoceles -- Time elapsed: 0 s
+medium.TriangleTest.secondTriangleInequalityViolation -- Time elapsed: 0 s
+medium.TriangleTest.verySmallTrianglesCanBeScalene -- Time elapsed: 0 s

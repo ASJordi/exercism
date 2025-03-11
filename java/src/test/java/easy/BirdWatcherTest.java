@@ -1,9 +1,7 @@
 package easy;
 
-import org.junit.Before;
-import org.junit.Test;
-
-
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
 public class BirdWatcherTest {
@@ -19,7 +17,7 @@ public class BirdWatcherTest {
     private BirdWatcher birdWatcher;
     private int lastWeek[] = {DAY1, DAY2, DAY3, DAY4, DAY5, DAY6, TODAY};
 
-    @Before
+    @BeforeEach
     public void setUp() {
         birdWatcher = new BirdWatcher(lastWeek);
     }

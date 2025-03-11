@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: easy.DifferenceOfSquaresCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in easy.DifferenceOfSquaresCalculatorTest
+easy.DifferenceOfSquaresCalculatorTest.testDifferenceOfSquaresUpToHundred -- Time elapsed: 0.019 s
+easy.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne -- Time elapsed: 0.001 s
+easy.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToHundred -- Time elapsed: 0 s
+easy.DifferenceOfSquaresCalculatorTest.testDifferenceOfSquaresUpToOne -- Time elapsed: 0 s
+easy.DifferenceOfSquaresCalculatorTest.testSumOfSquaresUpToHundred -- Time elapsed: 0 s
+easy.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToFive -- Time elapsed: 0 s
+easy.DifferenceOfSquaresCalculatorTest.testDifferenceOfSquaresUpToFive -- Time elapsed: 0.005 s
+easy.DifferenceOfSquaresCalculatorTest.testSumOfSquaresUpToOne -- Time elapsed: 0 s
+easy.DifferenceOfSquaresCalculatorTest.testSumOfSquaresUpToFive -- Time elapsed: 0 s

@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: easy.GrainsTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in easy.GrainsTest
+easy.GrainsTest.countAtSquare16 -- Time elapsed: 0 s
+easy.GrainsTest.countAtSquare32 -- Time elapsed: 0 s
+easy.GrainsTest.countAtSquare64 -- Time elapsed: 0 s
+easy.GrainsTest.errorOnExcessiveBoardSize -- Time elapsed: 0 s
+easy.GrainsTest.errorOnNegativeBoardSize -- Time elapsed: 0.016 s
+easy.GrainsTest.countAtSquare1 -- Time elapsed: 0 s
+easy.GrainsTest.countAtSquare2 -- Time elapsed: 0 s
+easy.GrainsTest.countAtSquare3 -- Time elapsed: 0 s
+easy.GrainsTest.countAtSquare4 -- Time elapsed: 0 s
+easy.GrainsTest.errorOnNullBoardSize -- Time elapsed: 0 s
+easy.GrainsTest.totalNumberOfGrainsOnABoard -- Time elapsed: 0 s

@@ -1,12 +1,10 @@
 package medium;
 
-import org.junit.Before;
-import org.junit.Test;
-
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.HashMap;
 import java.util.Map;
-
-import static org.junit.Assert.*;
 
 public class WordCountTest {
 
@@ -14,7 +12,7 @@ public class WordCountTest {
     private Map<String, Integer> actualWordCount;
     private Map<String, Integer> expectedWordCount;
 
-    @Before
+    @BeforeEach
     public void setup() {
         wordCount = new WordCount();
         expectedWordCount = new HashMap<>();

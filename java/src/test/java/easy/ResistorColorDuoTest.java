@@ -1,14 +1,13 @@
 package easy;
 
-import org.junit.Before;
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.BeforeEach;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class ResistorColorDuoTest {
     private ResistorColorDuo resistorColorDuo;
 
-    @Before
+    @BeforeEach
     public void setup() {
         resistorColorDuo = new ResistorColorDuo();
     }

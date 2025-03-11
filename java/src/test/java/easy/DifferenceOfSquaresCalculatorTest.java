@@ -1,15 +1,14 @@
 package easy;
 
-import org.junit.Before;
-import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeEach;
 
 public class DifferenceOfSquaresCalculatorTest {
 
     private DifferenceOfSquaresCalculator calculator;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         calculator = new DifferenceOfSquaresCalculator();
     }

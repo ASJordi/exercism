@@ -1,9 +1,8 @@
 package medium;
 
+import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
-
-import org.junit.Test;
 
 public class BowlingGameTest {
     private BowlingGame game = new BowlingGame();

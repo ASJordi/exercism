@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: easy.PangramCheckerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s -- in easy.PangramCheckerTest
+easy.PangramCheckerTest.perfectLowerCasePhraseIsPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.phraseWithNumbersIsPangram -- Time elapsed: 0.015 s
+easy.PangramCheckerTest.phraseWithUnderscoresIsPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.phraseWithOnlyLowerCaseIsPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.phraseMissingCharacterXIsNotPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.phraseMissingCharacterHIsNotPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.phraseWithMissingLettersReplacedByNumbersIsNotPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.emptySentenceIsNotPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.phraseWithMixedCaseAndPunctuationIsPangram -- Time elapsed: 0 s
+easy.PangramCheckerTest.caseInsensitivePhraseIsNotPangram -- Time elapsed: 0 s

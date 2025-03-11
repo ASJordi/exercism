@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: easy.ElonsToyCarTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s -- in easy.ElonsToyCarTest
+easy.ElonsToyCarTest.buy_new_car_returns_instance -- Time elapsed: 0 s
+easy.ElonsToyCarTest.new_car_distance_display -- Time elapsed: 0 s
+easy.ElonsToyCarTest.distance_display_after_driving_once -- Time elapsed: 0.001 s
+easy.ElonsToyCarTest.battery_display_after_driving_once -- Time elapsed: 0 s
+easy.ElonsToyCarTest.distance_display_when_battery_empty -- Time elapsed: 0 s
+easy.ElonsToyCarTest.battery_display_when_battery_empty -- Time elapsed: 0 s
+easy.ElonsToyCarTest.battery_display_after_driving_multiple_times -- Time elapsed: 0 s
+easy.ElonsToyCarTest.buy_new_car_returns_new_car_each_time -- Time elapsed: 0 s
+easy.ElonsToyCarTest.distance_display_after_driving_multiple_times -- Time elapsed: 0 s
+easy.ElonsToyCarTest.new_car_battery_display -- Time elapsed: 0 s

@@ -1,7 +1,7 @@
 package easy;
 
-import org.junit.Test;
-
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
 public class SayTest {
@@ -75,13 +75,13 @@ public class SayTest {
                         " three hundred twenty-one thousand one hundred twenty-three");
     }
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test
     public void illegalNegativeNumber() {
-        say.say(-1);
+        assertThrows(IllegalArgumentException.class, () -> say.say(-1));
     }
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test
     public void illegalTooBigNumber() {
-        say.say(1_000_000_000_000L);
+        assertThrows(IllegalArgumentException.class, () -> say.say(1_000_000_000_000L));
     }
 }

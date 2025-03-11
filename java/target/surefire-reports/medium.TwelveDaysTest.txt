@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: medium.TwelveDaysTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.025 s -- in medium.TwelveDaysTest
+medium.TwelveDaysTest.testVerseEight -- Time elapsed: 0 s
+medium.TwelveDaysTest.testVerseSeven -- Time elapsed: 0.001 s
+medium.TwelveDaysTest.testVerseThree -- Time elapsed: 0.001 s
+medium.TwelveDaysTest.testVerseOne -- Time elapsed: 0.001 s
+medium.TwelveDaysTest.testVerseSix -- Time elapsed: 0.001 s
+medium.TwelveDaysTest.testVerseTen -- Time elapsed: 0.001 s
+medium.TwelveDaysTest.testVerseTwo -- Time elapsed: 0.002 s
+medium.TwelveDaysTest.testVerseFive -- Time elapsed: 0.001 s
+medium.TwelveDaysTest.testVerseFour -- Time elapsed: 0 s
+medium.TwelveDaysTest.testVerseNine -- Time elapsed: 0 s
+medium.TwelveDaysTest.testVerseEleven -- Time elapsed: 0 s
+medium.TwelveDaysTest.testVerseTwelve -- Time elapsed: 0 s
+medium.TwelveDaysTest.testFirstThreeVerses -- Time elapsed: 0 s
+medium.TwelveDaysTest.testSingWholeSong -- Time elapsed: 0.007 s
+medium.TwelveDaysTest.testFourthToSixthVerses -- Time elapsed: 0 s

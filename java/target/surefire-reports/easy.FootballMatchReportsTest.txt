@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: easy.FootballMatchReportsTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s -- in easy.FootballMatchReportsTest
+easy.FootballMatchReportsTest.test_goal -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_exception_negative_number -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_midfielder -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_striker -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_exception -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_right_back -- Time elapsed: 0.015 s
+easy.FootballMatchReportsTest.test_right_wing -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_left_back -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_left_wing -- Time elapsed: 0 s
+easy.FootballMatchReportsTest.test_center_back -- Time elapsed: 0 s

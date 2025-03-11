@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: easy.ReverseStringTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in easy.ReverseStringTest
+easy.ReverseStringTest.testAWord -- Time elapsed: 0 s
+easy.ReverseStringTest.testAnEmptyString -- Time elapsed: 0 s
+easy.ReverseStringTest.testACapitalizedWord -- Time elapsed: 0 s
+easy.ReverseStringTest.testASentenceWithPunctuation -- Time elapsed: 0 s
+easy.ReverseStringTest.testAPalindrome -- Time elapsed: 0 s
+easy.ReverseStringTest.testAnEvenSizedWord -- Time elapsed: 0 s

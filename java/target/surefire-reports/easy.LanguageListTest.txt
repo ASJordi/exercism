@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: easy.LanguageListTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in easy.LanguageListTest
+easy.LanguageListTest.addMultipleLanguages -- Time elapsed: 0 s
+easy.LanguageListTest.countEmpty -- Time elapsed: 0 s
+easy.LanguageListTest.countThree -- Time elapsed: 0 s
+easy.LanguageListTest.excitingLanguageListWithKotlin -- Time elapsed: 0 s
+easy.LanguageListTest.addOneLanguage -- Time elapsed: 0 s
+easy.LanguageListTest.empty -- Time elapsed: 0 s
+easy.LanguageListTest.firstLanguage -- Time elapsed: 0.016 s
+easy.LanguageListTest.boringLanguageList -- Time elapsed: 0 s
+easy.LanguageListTest.excitingLanguageListWithJava -- Time elapsed: 0 s
+easy.LanguageListTest.removeLanguage -- Time elapsed: 0 s
+easy.LanguageListTest.nonEmpty -- Time elapsed: 0 s

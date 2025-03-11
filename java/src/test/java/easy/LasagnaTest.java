@@ -1,9 +1,7 @@
 package easy;
 
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
 import easy.utils.Lasagna;
-
 import static org.assertj.core.api.Assertions.*;
 
 public class LasagnaTest {

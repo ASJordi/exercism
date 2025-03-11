@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: easy.CarsAssembleTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.CarsAssembleTest
+easy.CarsAssembleTest.workingItemsPerMinuteForSpeedFive -- Time elapsed: 0 s
+easy.CarsAssembleTest.workingItemsPerMinuteForSpeedNine -- Time elapsed: 0 s
+easy.CarsAssembleTest.workingItemsPerMinuteForSpeedZero -- Time elapsed: 0 s
+easy.CarsAssembleTest.workingItemsPerMinuteForSpeedEight -- Time elapsed: 0 s
+easy.CarsAssembleTest.productionRatePerHourForSpeedSeven -- Time elapsed: 0 s
+easy.CarsAssembleTest.workingItemsPerMinuteForSpeedOne -- Time elapsed: 0.014 s
+easy.CarsAssembleTest.workingItemsPerMinuteForSpeedTen -- Time elapsed: 0 s
+easy.CarsAssembleTest.productionRatePerHourForSpeedOne -- Time elapsed: 0 s
+easy.CarsAssembleTest.productionRatePerHourForSpeedTen -- Time elapsed: 0 s
+easy.CarsAssembleTest.productionRatePerHourForSpeedFour -- Time elapsed: 0 s
+easy.CarsAssembleTest.productionRatePerHourForSpeedNine -- Time elapsed: 0 s
+easy.CarsAssembleTest.productionRatePerHourForSpeedZero -- Time elapsed: 0.001 s

@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: easy.NeedForSpeedTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in easy.NeedForSpeedTest
+easy.NeedForSpeedTest.new_remote_control_car_has_not_driven_any_distance -- Time elapsed: 0 s
+easy.NeedForSpeedTest.drive_until_battery_is_drained -- Time elapsed: 0 s
+easy.NeedForSpeedTest.nitro_car_has_battery_not_drained -- Time elapsed: 0 s
+easy.NeedForSpeedTest.new_remote_control_car_battery_is_not_drained -- Time elapsed: 0 s
+easy.NeedForSpeedTest.car_can_finish_with_car_that_just_cannot_finish -- Time elapsed: 0 s
+easy.NeedForSpeedTest.drive_increases_distance_driven_with_speed -- Time elapsed: 0.016 s
+easy.NeedForSpeedTest.car_can_finish_with_car_that_can_easily_finish -- Time elapsed: 0 s
+easy.NeedForSpeedTest.drive_does_not_increase_distance_driven_when_battery_drained -- Time elapsed: 0 s
+easy.NeedForSpeedTest.nitro_has_correct_battery_drain -- Time elapsed: 0 s
+easy.NeedForSpeedTest.car_can_finish_with_car_that_can_just_finish -- Time elapsed: 0 s
+easy.NeedForSpeedTest.nitro_car_has_correct_speed -- Time elapsed: 0 s
+easy.NeedForSpeedTest.nitro_car_has_not_driven_any_distance -- Time elapsed: 0 s
+easy.NeedForSpeedTest.car_can_finish_with_car_that_cannot_finish -- Time elapsed: 0 s
+easy.NeedForSpeedTest.drive_to_almost_drain_battery -- Time elapsed: 0 s

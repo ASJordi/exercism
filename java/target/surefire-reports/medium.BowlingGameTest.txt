@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: medium.BowlingGameTest
+-------------------------------------------------------------------------------
+Tests run: 30, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.079 s -- in medium.BowlingGameTest
+medium.BowlingGameTest.canNotRollAfterBonusRollForSpare -- Time elapsed: 0 s
+medium.BowlingGameTest.bonusRollForASpareInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated -- Time elapsed: 0.005 s
+medium.BowlingGameTest.aStrikeInTheLastFrameGetsATwoRollBonusThatIsCountedOnce -- Time elapsed: 0 s
+medium.BowlingGameTest.twoRollsInAFrameCanNotScoreMoreThan10Points -- Time elapsed: 0 s
+medium.BowlingGameTest.twoBonusRollsAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points -- Time elapsed: 0.006 s
+medium.BowlingGameTest.pointsScoredInTheRollAfterASpareAreCountedTwice -- Time elapsed: 0.005 s
+medium.BowlingGameTest.bonusRollsForAStrikeInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated -- Time elapsed: 0 s
+medium.BowlingGameTest.aSpareInTheLastFrameGetsAOneRollBonusThatIsCountedOnce -- Time elapsed: 0 s
+medium.BowlingGameTest.aStrikeEarnsTenPointsInFrameWithASingleRoll -- Time elapsed: 0 s
+medium.BowlingGameTest.secondBonusRollAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points -- Time elapsed: 0 s
+medium.BowlingGameTest.aSpareFollowedByZerosIsWorthTenPoints -- Time elapsed: 0 s
+medium.BowlingGameTest.consecutiveStrikesEachGetTheTwoRollBonus -- Time elapsed: 0 s
+medium.BowlingGameTest.anIncompleteGameCanNotBeScored -- Time elapsed: 0 s
+medium.BowlingGameTest.rollsCanNotScoreNegativePoints -- Time elapsed: 0 s
+medium.BowlingGameTest.bothBonusRollsForAStrikeInTheLastFrameMustBeRolledBeforeScoreCanBeCalculated -- Time elapsed: 0 s
+medium.BowlingGameTest.aStrikeWithTheOneRollBonusAfterASpareInTheLastFrameDoesNotGetABonus -- Time elapsed: 0 s
+medium.BowlingGameTest.anUnstartedGameCanNotBeScored -- Time elapsed: 0 s
+medium.BowlingGameTest.rollingASpareWithTheTwoRollBonusDoesNotGetABonusRoll -- Time elapsed: 0.016 s
+medium.BowlingGameTest.theSecondBonusRollsAfterAStrikeInTheLastFrameCanNotBeAStrikeIfTheFirstOneIsNotAStrike -- Time elapsed: 0 s
+medium.BowlingGameTest.canNotRollIfGameAlreadyHasTenFrames -- Time elapsed: 0 s
+medium.BowlingGameTest.bonusRollAfterAStrikeInTheLastFrameCanNotScoreMoreThan10Points -- Time elapsed: 0.011 s
+medium.BowlingGameTest.allStrikesIsAPerfectGame -- Time elapsed: 0 s
+medium.BowlingGameTest.canNotRollAfterBonusRollForStrike -- Time elapsed: 0 s
+medium.BowlingGameTest.aRollCanNotScoreMoreThan10Points -- Time elapsed: 0 s
+medium.BowlingGameTest.twoBonusRollsAfterAStrikeInTheLastFrameCanScoreMoreThan10PointsIfOneIsAStrike -- Time elapsed: 0 s
+medium.BowlingGameTest.shouldBeAbleToScoreAGameWithNoStrikesOrSpares -- Time elapsed: 0 s
+medium.BowlingGameTest.shouldBeAbleToScoreAGameWithAllZeros -- Time elapsed: 0 s
+medium.BowlingGameTest.strikesWithTheTwoRollBonusDoNotGetBonusRolls -- Time elapsed: 0 s
+medium.BowlingGameTest.consecutiveSparesEachGetAOneRollBonus -- Time elapsed: 0 s
+medium.BowlingGameTest.pointsScoredInTheTwoRollsAfterAStrikeAreCountedTwiceAsABonus -- Time elapsed: 0 s

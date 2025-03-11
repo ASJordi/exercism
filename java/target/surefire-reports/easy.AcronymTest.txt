@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: easy.AcronymTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.173 s -- in easy.AcronymTest
+easy.AcronymTest.underscoreEmphasis -- Time elapsed: 0.115 s
+easy.AcronymTest.lowercaseWords -- Time elapsed: 0 s
+easy.AcronymTest.apostrophes -- Time elapsed: 0 s
+easy.AcronymTest.basic -- Time elapsed: 0 s
+easy.AcronymTest.veryLongAbbreviation -- Time elapsed: 0 s
+easy.AcronymTest.nonAcronymAllCapsWord -- Time elapsed: 0 s
+easy.AcronymTest.consecutiveDelimiters -- Time elapsed: 0 s
+easy.AcronymTest.punctuationWithoutWhitespace -- Time elapsed: 0 s
+easy.AcronymTest.punctuation -- Time elapsed: 0 s

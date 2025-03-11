@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: easy.DartsTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 s -- in easy.DartsTest
+easy.DartsTest.exactlyOnCentre -- Time elapsed: 0.023 s
+easy.DartsTest.onTheInnerCircle -- Time elapsed: 0 s
+easy.DartsTest.justWithinTheInnerCircle -- Time elapsed: 0 s
+easy.DartsTest.justWithinTheMiddleCircle -- Time elapsed: 0 s
+easy.DartsTest.asymmetricPositionBetweenTheInnerAndMiddleCircles -- Time elapsed: 0.009 s
+easy.DartsTest.nearTheCentre -- Time elapsed: 0 s
+easy.DartsTest.missedTarget -- Time elapsed: 0 s
+easy.DartsTest.justOutsideTheOuterCircle -- Time elapsed: 0.004 s
+easy.DartsTest.justOutsideTheMiddleCircle -- Time elapsed: 0 s
+easy.DartsTest.onTheMiddleCircle -- Time elapsed: 0 s
+easy.DartsTest.onTheOuterCircle -- Time elapsed: 0 s
+easy.DartsTest.justWithinTheOuterCircle -- Time elapsed: 0 s
+easy.DartsTest.justOutsideTheInnerCircle -- Time elapsed: 0 s

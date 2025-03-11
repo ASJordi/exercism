@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: medium.WordCountTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.076 s -- in medium.WordCountTest
+medium.WordCountTest.handlesExpandedLists -- Time elapsed: 0.016 s
+medium.WordCountTest.withQuotations -- Time elapsed: 0 s
+medium.WordCountTest.normalizeCase -- Time elapsed: 0 s
+medium.WordCountTest.multipleSpacesNotDetectedAsAWord -- Time elapsed: 0 s
+medium.WordCountTest.countOneOfEachWord -- Time elapsed: 0.018 s
+medium.WordCountTest.handlesCrampedLists -- Time elapsed: 0 s
+medium.WordCountTest.withApostrophes -- Time elapsed: 0 s
+medium.WordCountTest.countOneWord -- Time elapsed: 0 s
+medium.WordCountTest.alternatingWordSeperatorsNotDetectedAsAWord -- Time elapsed: 0.014 s
+medium.WordCountTest.substringsFromTheBeginning -- Time elapsed: 0.003 s
+medium.WordCountTest.multipleOccurrencesOfAWord -- Time elapsed: 0 s
+medium.WordCountTest.includeNumbers -- Time elapsed: 0.008 s
+medium.WordCountTest.ignorePunctuation -- Time elapsed: 0.008 s

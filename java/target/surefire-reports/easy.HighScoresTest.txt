@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: easy.HighScoresTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.HighScoresTest
+easy.HighScoresTest.callingLatestAfterPersonalBest -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnPersonalTopThreeFromListOfScores -- Time elapsed: 0.031 s
+easy.HighScoresTest.shouldReturnPersonalBest -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnListOfScores -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnLatestAddedScore -- Time elapsed: 0 s
+easy.HighScoresTest.callingLatestAfterPersonalTopThree -- Time elapsed: 0 s
+easy.HighScoresTest.callingScoresAfterPersonalTopThree -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnPersonalTopWhenThereIsOnlyOneScore -- Time elapsed: 0 s
+easy.HighScoresTest.callingScoresAfterPersonalBest -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnPersonalTopThreeWhenThereIsATie -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnPersonalTopThreeSortedHighestToLowest -- Time elapsed: 0 s
+easy.HighScoresTest.shouldReturnPersonalTopWhenThereIsLessThanThreeScores -- Time elapsed: 0 s

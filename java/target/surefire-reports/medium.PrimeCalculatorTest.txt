@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: medium.PrimeCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.043 s -- in medium.PrimeCalculatorTest
+medium.PrimeCalculatorTest.testUndefinedPrime -- Time elapsed: 0 s
+medium.PrimeCalculatorTest.testSixthPrime -- Time elapsed: 0 s
+medium.PrimeCalculatorTest.testFirstPrime -- Time elapsed: 0 s
+medium.PrimeCalculatorTest.testSecondPrime -- Time elapsed: 0 s
+medium.PrimeCalculatorTest.testBigPrime -- Time elapsed: 0.033 s

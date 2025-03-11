@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: easy.HammingTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.HammingTest
+easy.HammingTest.testCompleteDistanceInSingleLetterDifferentStrands -- Time elapsed: 0.015 s
+easy.HammingTest.testNoDistanceBetweenEmptyStrands -- Time elapsed: 0 s
+easy.HammingTest.testNoDistanceBetweenShortIdenticalStrands -- Time elapsed: 0 s
+easy.HammingTest.testDisallowLeftEmptyStrand -- Time elapsed: 0 s
+easy.HammingTest.testDistanceInLongIdenticalStrands -- Time elapsed: 0 s
+easy.HammingTest.testDisallowRightEmptyStrand -- Time elapsed: 0.016 s
+easy.HammingTest.testDistanceInLongDifferentStrands -- Time elapsed: 0 s
+easy.HammingTest.testValidatesFirstStrandNotLonger -- Time elapsed: 0 s
+easy.HammingTest.testValidatesSecondStrandNotLonger -- Time elapsed: 0 s

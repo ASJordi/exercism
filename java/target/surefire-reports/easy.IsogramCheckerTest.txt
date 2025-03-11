@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: easy.IsogramCheckerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.IsogramCheckerTest
+easy.IsogramCheckerTest.testDuplicateEndAlphabet -- Time elapsed: 0.016 s
+easy.IsogramCheckerTest.testIsogramWithDuplicatedHyphen -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testIsogramWithDuplicatedCharAfterHyphen -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testCaseInsensitive -- Time elapsed: 0.015 s
+easy.IsogramCheckerTest.testLowercaseIsogram -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testNotIsogram -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testMadeUpNameThatIsAnIsogram -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testEmptyString -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testIsogramWithHyphen -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testSameFirstAndLast -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testDuplicatMixedCase -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testMediumLongIsogram -- Time elapsed: 0 s
+easy.IsogramCheckerTest.testDuplicatedCharacterInTheMiddleIsNotIsogram -- Time elapsed: 0 s

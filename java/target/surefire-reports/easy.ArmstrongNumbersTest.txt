@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: easy.ArmstrongNumbersTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.053 s -- in easy.ArmstrongNumbersTest
+easy.ArmstrongNumbersTest.threeDigitNumberIsNotArmstrongNumber -- Time elapsed: 0 s
+easy.ArmstrongNumbersTest.sevenDigitNumberIsNotArmstrongNumber -- Time elapsed: 0.001 s
+easy.ArmstrongNumbersTest.noTwoDigitArmstrongNumbers -- Time elapsed: 0 s
+easy.ArmstrongNumbersTest.singleDigitsAreArmstrongNumbers -- Time elapsed: 0.012 s
+easy.ArmstrongNumbersTest.zeroIsArmstrongNumber -- Time elapsed: 0 s
+easy.ArmstrongNumbersTest.sevenDigitNumberIsArmstrongNumber -- Time elapsed: 0 s
+easy.ArmstrongNumbersTest.fourDigitNumberIsNotArmstrongNumber -- Time elapsed: 0.012 s
+easy.ArmstrongNumbersTest.fourDigitNumberIsArmstrongNumber -- Time elapsed: 0 s
+easy.ArmstrongNumbersTest.threeDigitNumberIsArmstrongNumber -- Time elapsed: 0 s

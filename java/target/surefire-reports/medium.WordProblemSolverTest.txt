@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: medium.WordProblemSolverTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.093 s -- in medium.WordProblemSolverTest
+medium.WordProblemSolverTest.testSingleMultiplication -- Time elapsed: 0.012 s
+medium.WordProblemSolverTest.testMultipleDivisions -- Time elapsed: 0.006 s
+medium.WordProblemSolverTest.testUnknownOperation -- Time elapsed: 0.002 s
+medium.WordProblemSolverTest.testJustANumber -- Time elapsed: 0.002 s
+medium.WordProblemSolverTest.testSingleDivision -- Time elapsed: 0.003 s
+medium.WordProblemSolverTest.testAdditionThenSubtraction -- Time elapsed: 0.003 s
+medium.WordProblemSolverTest.testNoOperandsOrOperators -- Time elapsed: 0.003 s
+medium.WordProblemSolverTest.testMissingAnOperand -- Time elapsed: 0.004 s
+medium.WordProblemSolverTest.testSingleAdditionWithNegativeNumbers -- Time elapsed: 0.003 s
+medium.WordProblemSolverTest.testMultipleAdditions -- Time elapsed: 0.002 s
+medium.WordProblemSolverTest.testTwoOperationsInARow -- Time elapsed: 0.001 s
+medium.WordProblemSolverTest.testSubtractionThenAddition -- Time elapsed: 0.003 s
+medium.WordProblemSolverTest.testPrefixNotation -- Time elapsed: 0 s
+medium.WordProblemSolverTest.testMultipleSubtractions -- Time elapsed: 0.004 s
+medium.WordProblemSolverTest.testPostfixNotation -- Time elapsed: 0 s
+medium.WordProblemSolverTest.testMultipleMultiplications -- Time elapsed: 0 s
+medium.WordProblemSolverTest.testSingleSubtraction -- Time elapsed: 0 s
+medium.WordProblemSolverTest.testSingleAddition1 -- Time elapsed: 0.008 s
+medium.WordProblemSolverTest.testSingleAddition2 -- Time elapsed: 0.005 s
+medium.WordProblemSolverTest.testTwoNumbersAfterOperation -- Time elapsed: 0.003 s
+medium.WordProblemSolverTest.testNonMathQuestion -- Time elapsed: 0.004 s
+medium.WordProblemSolverTest.testSingleAdditionOfLargeNumbers -- Time elapsed: 0.005 s
+medium.WordProblemSolverTest.testAdditionThenMultiplication -- Time elapsed: 0 s

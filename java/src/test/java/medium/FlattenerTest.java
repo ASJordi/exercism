@@ -1,18 +1,17 @@
 package medium;
 
-import org.junit.Before;
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeEach;
 import static java.util.Arrays.asList;
 import static java.util.Collections.emptyList;
 import static java.util.Collections.singletonList;
-import static org.junit.Assert.assertEquals;
 
 public class FlattenerTest {
 
     private Flattener flattener;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         flattener = new Flattener();
     }

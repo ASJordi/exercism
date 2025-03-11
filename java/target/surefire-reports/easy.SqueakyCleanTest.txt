@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: easy.SqueakyCleanTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.SqueakyCleanTest
+easy.SqueakyCleanTest.keep_only_letters -- Time elapsed: 0.015 s
+easy.SqueakyCleanTest.omit_lower_case_greek_letters -- Time elapsed: 0 s
+easy.SqueakyCleanTest.spaces -- Time elapsed: 0 s
+easy.SqueakyCleanTest.string -- Time elapsed: 0 s
+easy.SqueakyCleanTest.kebab_to_camel_case_no_letter -- Time elapsed: 0 s
+easy.SqueakyCleanTest.string_with_no_letters -- Time elapsed: 0 s
+easy.SqueakyCleanTest.ctrl -- Time elapsed: 0 s
+easy.SqueakyCleanTest.empty -- Time elapsed: 0 s
+easy.SqueakyCleanTest.leading_and_trailing_spaces -- Time elapsed: 0 s
+easy.SqueakyCleanTest.combine_conversions -- Time elapsed: 0 s
+easy.SqueakyCleanTest.kebab_to_camel_case -- Time elapsed: 0 s
+easy.SqueakyCleanTest.single_letter -- Time elapsed: 0.016 s

@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: medium.DoublyLinkedListTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s -- in medium.DoublyLinkedListTest
+medium.DoublyLinkedListTest.testExample -- Time elapsed: 0 s
+medium.DoublyLinkedListTest.testPushPop -- Time elapsed: 0 s
+medium.DoublyLinkedListTest.testPushShift -- Time elapsed: 0 s
+medium.DoublyLinkedListTest.testUnshiftPop -- Time elapsed: 0.013 s
+medium.DoublyLinkedListTest.testUnshiftShift -- Time elapsed: 0 s

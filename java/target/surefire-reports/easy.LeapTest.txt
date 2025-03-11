@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: easy.LeapTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in easy.LeapTest
+easy.LeapTest.testYearDivBy100NotDivBy3IsNotLeapYear -- Time elapsed: 0 s
+easy.LeapTest.testYearDivBy2NotDivBy4InCommonYear -- Time elapsed: 0 s
+easy.LeapTest.testYearDivBy400InLeapYear -- Time elapsed: 0 s
+easy.LeapTest.testYearNotDivBy4InCommonYear -- Time elapsed: 0 s
+easy.LeapTest.testYearDivBy4NotDivBy100InLeapYear -- Time elapsed: 0 s
+easy.LeapTest.testYearDivBy400NotDivBy125IsLeapYear -- Time elapsed: 0 s
+easy.LeapTest.testYearDivBy100NotDivBy400InCommonYear -- Time elapsed: 0 s
+easy.LeapTest.testYearDivBy200NotDivBy400InCommonYear -- Time elapsed: 0.016 s
+easy.LeapTest.testYearDivBy4And5InLeapYear -- Time elapsed: 0 s

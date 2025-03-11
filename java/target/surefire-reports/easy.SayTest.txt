@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: easy.SayTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s -- in easy.SayTest
+easy.SayTest.twenty -- Time elapsed: 0 s
+easy.SayTest.nineHundredEightySevenBillionSixHundredFiftyFourThreeHundredTwentyOneThousandOneHundredTwentyThree -- Time elapsed: 0 s
+easy.SayTest.oneBillion -- Time elapsed: 0 s
+easy.SayTest.one -- Time elapsed: 0 s
+easy.SayTest.zero -- Time elapsed: 0.016 s
+easy.SayTest.oneMillionTwoThousandThreeHundredFortyFive -- Time elapsed: 0 s
+easy.SayTest.twentyTwo -- Time elapsed: 0 s
+easy.SayTest.fourteen -- Time elapsed: 0 s
+easy.SayTest.oneMillion -- Time elapsed: 0 s
+easy.SayTest.illegalNegativeNumber -- Time elapsed: 0 s
+easy.SayTest.oneHundred -- Time elapsed: 0 s
+easy.SayTest.illegalTooBigNumber -- Time elapsed: 0 s
+easy.SayTest.oneHundredTwentyThree -- Time elapsed: 0 s
+easy.SayTest.oneThousand -- Time elapsed: 0 s
+easy.SayTest.oneThousandTwoHundredThirtyFour -- Time elapsed: 0.011 s

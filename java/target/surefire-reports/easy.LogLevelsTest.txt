@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: easy.LogLevelsTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.020 s -- in easy.LogLevelsTest
+easy.LogLevelsTest.message_with_leading_and_trailing_white_space -- Time elapsed: 0 s
+easy.LogLevelsTest.info_message -- Time elapsed: 0 s
+easy.LogLevelsTest.error_message -- Time elapsed: 0 s
+easy.LogLevelsTest.reformat_with_leading_and_trailing_white_space -- Time elapsed: 0 s
+easy.LogLevelsTest.info_log_level -- Time elapsed: 0 s
+easy.LogLevelsTest.error_reformat -- Time elapsed: 0 s
+easy.LogLevelsTest.error_log_level -- Time elapsed: 0 s
+easy.LogLevelsTest.info_reformat -- Time elapsed: 0 s
+easy.LogLevelsTest.warning_reformat -- Time elapsed: 0.005 s
+easy.LogLevelsTest.warning_log_level -- Time elapsed: 0 s
+easy.LogLevelsTest.warning_message -- Time elapsed: 0 s

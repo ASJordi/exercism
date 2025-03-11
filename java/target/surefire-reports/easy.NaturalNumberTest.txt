@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: easy.NaturalNumberTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.282 s -- in easy.NaturalNumberTest
+easy.NaturalNumberTest.testThatNonNegativeIntegerIsRejected -- Time elapsed: 0 s
+easy.NaturalNumberTest.testSmallAbundantNumberIsClassifiedCorrectly -- Time elapsed: 0 s
+easy.NaturalNumberTest.testMediumAbundantNumberIsClassifiedCorrectly -- Time elapsed: 0.016 s
+easy.NaturalNumberTest.testLargeAbundantNumberIsClassifiedCorrectly -- Time elapsed: 0.156 s
+easy.NaturalNumberTest.testSmallestPrimeDeficientNumberIsClassifiedCorrectly -- Time elapsed: 0 s
+easy.NaturalNumberTest.testSmallestNonPrimeDeficientNumberIsClassifiedCorrectly -- Time elapsed: 0 s
+easy.NaturalNumberTest.testThatOneIsCorrectlyClassifiedAsDeficient -- Time elapsed: 0 s
+easy.NaturalNumberTest.testSmallPerfectNumberIsClassifiedCorrectly -- Time elapsed: 0 s
+easy.NaturalNumberTest.testThatNegativeIntegerIsRejected -- Time elapsed: 0 s
+easy.NaturalNumberTest.testLargePerfectNumberIsClassifiedCorrectly -- Time elapsed: 0.063 s
+easy.NaturalNumberTest.testLargeDeficientNumberIsClassifiedCorrectly -- Time elapsed: 0.047 s
+easy.NaturalNumberTest.testMediumDeficientNumberIsClassifiedCorrectly -- Time elapsed: 0 s
+easy.NaturalNumberTest.testMediumPerfectNumberIsClassifiedCorrectly -- Time elapsed: 0 s

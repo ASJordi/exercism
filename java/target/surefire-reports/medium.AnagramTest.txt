@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: medium.AnagramTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in medium.AnagramTest
+medium.AnagramTest.testCaseInsensitiveWhenBothAnagramAndSubjectStartWithUpperCaseLetter -- Time elapsed: 0 s
+medium.AnagramTest.testEliminateAnagramSubsets -- Time elapsed: 0 s
+medium.AnagramTest.testAnagramMustUseAllLettersExactlyOnce -- Time elapsed: 0 s
+medium.AnagramTest.testIdenticalWordRepeatedIsNotAnagram -- Time elapsed: 0 s
+medium.AnagramTest.testDetectsMultipleAnagramsWithDifferentCase -- Time elapsed: 0 s
+medium.AnagramTest.testWordsOtherThanThemselvesCanBeAnagrams -- Time elapsed: 0 s
+medium.AnagramTest.testDetectMultipleAnagramsForLongerWord -- Time elapsed: 0 s
+medium.AnagramTest.testDetectMultipleAnagrams -- Time elapsed: 0 s
+medium.AnagramTest.testWordsAreNotAnagramsOfThemselvesCaseInsensitive -- Time elapsed: 0 s
+medium.AnagramTest.testCaseInsensitiveWhenSubjectStartsWithUpperCaseLetter -- Time elapsed: 0.015 s
+medium.AnagramTest.testCaseInsensitiveWhenAnagramStartsWithUpperCaseLetter -- Time elapsed: 0 s
+medium.AnagramTest.testDetectLongerAnagram -- Time elapsed: 0 s
+medium.AnagramTest.testNoMatches -- Time elapsed: 0 s
+medium.AnagramTest.testEliminateAnagramsWithSameChecksum -- Time elapsed: 0 s

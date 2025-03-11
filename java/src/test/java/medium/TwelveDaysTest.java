@@ -1,14 +1,13 @@
 package medium;
 
-import org.junit.Before;
-import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeEach;
 
 public class TwelveDaysTest {
     private TwelveDays twelveDays;
 
-    @Before
+    @BeforeEach
     public void setup() {
         twelveDays = new TwelveDays();
     }

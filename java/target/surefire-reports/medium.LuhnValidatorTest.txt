@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: medium.LuhnValidatorTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 s -- in medium.LuhnValidatorTest
+medium.LuhnValidatorTest.testSimpleValidSINReversedRemainsValid -- Time elapsed: 0.007 s
+medium.LuhnValidatorTest.testValidNumberWithAnOddNumberOfSpaces -- Time elapsed: 0.005 s
+medium.LuhnValidatorTest.testValidCanadianSINValid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testMoreThanSingleZeroValid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testStringContainingSymbolsInvalidJavaTrackSpecific -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testSimpleValidSINReversedBecomesInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testSingleZeroIsInvalid -- Time elapsed: 0.016 s
+medium.LuhnValidatorTest.testInvalidCanadianSINInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testStringContainingPunctuationInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testUsingASCIIValueForNonDoubledNonDigitNotAllowed -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testValidStringsWithANonDigitAtEndInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testValidNumberWithAnEvenNumberOfDigits -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testDigitNineConvertedToOutputNine -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testSingleSpaceWithZeroInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testSingleDigitStringInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testStringContainingSymbolsInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testInvalidCreditCardInvalid -- Time elapsed: 0 s
+medium.LuhnValidatorTest.testUsingASCIIValueForDoubledNonDigitNotAllowed -- Time elapsed: 0.016 s
+medium.LuhnValidatorTest.testInvalidLongNumberWithAnEvenRemainder -- Time elapsed: 0 s

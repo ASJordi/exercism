@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: easy.MicroBlogTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s -- in easy.MicroBlogTest
+easy.MicroBlogTest.germanLanguageShort_broth -- Time elapsed: 0.012 s
+easy.MicroBlogTest.bulgarianLanguageShort_good -- Time elapsed: 0 s
+easy.MicroBlogTest.mathsShort -- Time elapsed: 0 s
+easy.MicroBlogTest.englishLanguageShort -- Time elapsed: 0 s
+easy.MicroBlogTest.royalFlush -- Time elapsed: 0 s
+easy.MicroBlogTest.englishLanguageLong -- Time elapsed: 0 s
+easy.MicroBlogTest.germanLanguageLong_bearCarpet_to_beards -- Time elapsed: 0 s
+easy.MicroBlogTest.greekLanguageShort_health -- Time elapsed: 0 s
+easy.MicroBlogTest.emojiShort -- Time elapsed: 0 s
+easy.MicroBlogTest.mathsLong -- Time elapsed: 0.015 s
+easy.MicroBlogTest.englishAndEmojiShort -- Time elapsed: 0 s
+easy.MicroBlogTest.emojiLong -- Time elapsed: 0 s

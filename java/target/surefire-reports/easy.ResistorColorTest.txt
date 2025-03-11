@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: easy.ResistorColorTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in easy.ResistorColorTest
+easy.ResistorColorTest.testWhiteColorCode -- Time elapsed: 0 s
+easy.ResistorColorTest.testColors -- Time elapsed: 0.031 s
+easy.ResistorColorTest.testBlackColorCode -- Time elapsed: 0 s
+easy.ResistorColorTest.testOrangeColorCode -- Time elapsed: 0 s

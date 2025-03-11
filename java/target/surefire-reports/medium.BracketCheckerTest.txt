@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: medium.BracketCheckerTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.035 s -- in medium.BracketCheckerTest
+medium.BracketCheckerTest.testPairedWithWhitespace -- Time elapsed: 0 s
+medium.BracketCheckerTest.testPairedAndWrongNestedBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testWrongOrderedBrackets -- Time elapsed: 0.016 s
+medium.BracketCheckerTest.testUnopenedClosingBracket -- Time elapsed: 0 s
+medium.BracketCheckerTest.testComplexLatexExpression -- Time elapsed: 0 s
+medium.BracketCheckerTest.testSimpleNestedBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testUnpairedAndNestedBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testTooManyClosingBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testWrongClosingBracket -- Time elapsed: 0 s
+medium.BracketCheckerTest.testPairedAndIncompleteBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testEmptyString -- Time elapsed: 0 s
+medium.BracketCheckerTest.testPartiallyPairedBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testMathExpression -- Time elapsed: 0.014 s
+medium.BracketCheckerTest.testPairedSquareBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testPairedAndNestedBrackets -- Time elapsed: 0.003 s
+medium.BracketCheckerTest.testUnpairedBrackets -- Time elapsed: 0 s
+medium.BracketCheckerTest.testSeveralPairedBrackets -- Time elapsed: 0 s

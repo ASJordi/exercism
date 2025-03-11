@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: easy.SalaryCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in easy.SalaryCalculatorTest
+easy.SalaryCalculatorTest.soldAboveThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.skippedBelowThresholdAndSoldAboveThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.salaryRespectMaximum -- Time elapsed: 0.016 s
+easy.SalaryCalculatorTest.regularSalary -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.salaryCanReachCloseToMaximum -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.skippedAboveThresholdAndSoldBelowThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.skippedBelowThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.skippedAboveThresholdAndSoldAboveThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.skippedAboveThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.soldBelowThreshold -- Time elapsed: 0 s
+easy.SalaryCalculatorTest.skippedBelowThresholdAndSoldBelowThreshold -- Time elapsed: 0 s

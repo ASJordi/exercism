@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: easy.BirdWatcherTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.057 s -- in easy.BirdWatcherTest
+easy.BirdWatcherTest.itShouldNotHaveBusyDays -- Time elapsed: 0.009 s
+easy.BirdWatcherTest.itShouldNotHaveDaysWithoutBirds -- Time elapsed: 0 s
+easy.BirdWatcherTest.itTestGetLastWeek -- Time elapsed: 0.024 s
+easy.BirdWatcherTest.itHasDayWithoutBirds -- Time elapsed: 0 s
+easy.BirdWatcherTest.itTestGetCountForBusyDays -- Time elapsed: 0 s
+easy.BirdWatcherTest.itTestGetCountForFirstDays -- Time elapsed: 0 s
+easy.BirdWatcherTest.itTestGetToday -- Time elapsed: 0 s
+easy.BirdWatcherTest.itIncrementTodaysCount -- Time elapsed: 0 s
+easy.BirdWatcherTest.itTestGetCountForMoreDaysThanTheArraySize -- Time elapsed: 0.002 s
