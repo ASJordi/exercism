@@ -40,6 +40,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="js/src/easy/ex-020.js">D&D Character</a></li>
         <li><a href="js/src/easy/ex-021.js">Run-Length Encoding</a></li>
         <li><a href="js/src/easy/ex-022.js">Protein Translation</a></li>
+        <li><a href="js/src/easy/ex-022.js">Protein Translation</a></li>
       </ol>
     </details>
     <details>
@@ -104,6 +105,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/AppointmentScheduler.java">Booking Up For Beauty</a></li>
         <li><a href="java/src/main/java/easy/CaptainsLog.java">Captains Log</a></li>
         <li><a href="java/src/main/java/easy/DialingCodes.java">International Calling Connoisseur</a></li>
+        <li><a href="java/src/main/java/easy/DnDCharacter.java">DnD Character</a></li>
       </ol>
     </details>
     <details>
