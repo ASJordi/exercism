@@ -108,6 +108,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/DnDCharacter.java">DnD Character</a></li>
         <li><a href="java/src/main/java/easy/GottaSnatchEmAll.java">Gotta Snatch Em All</a></li>
         <li><a href="java/src/main/java/easy/LogLine.java">Logs, Logs, Logs!</a></li>
+        <li><a href="java/src/main/java/easy/ProteinTranslator.java">Protein Translation</a></li>
       </ol>
     </details>
     <details>
