@@ -110,6 +110,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/LogLine.java">Logs, Logs, Logs!</a></li>
         <li><a href="java/src/main/java/easy/ProteinTranslator.java">Protein Translation</a></li>
         <li><a href="java/src/main/java/easy/RemoteControlCompetition.java">Remote Control Competition</a></li>
+        <li><a href="java/src/main/java/easy/ResistorColorTrio.java">Resistor Color Trio</a></li>
       </ol>
     </details>
     <details>
