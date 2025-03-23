@@ -113,6 +113,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/easy/ResistorColorTrio.java">Resistor Color Trio</a></li>
         <li><a href="java/src/main/java/easy/RnaTranscription.java">RNA Transcription</a></li>
         <li><a href="java/src/main/java/easy/alphametics/Alphametics.java">Alphametics</a></li>
+        <li><a href="java/src/main/java/easy/ledger/Ledger.java">Ledger</a></li>
       </ol>
     </details>
     <details>
