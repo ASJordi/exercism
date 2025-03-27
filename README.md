@@ -135,6 +135,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/WordCount.java">Word Count</a></li>
         <li><a href="java/src/main/java/medium/DoublyLinkedList.java">Linked List</a></li>
         <li><a href="java/src/main/java/medium/BowlingGame.java">Bowling</a></li>
+        <li><a href="java/src/main/java/medium/BaseConverter.java">Base Converter</a></li>
       </ol>
     </details>
     <details>
