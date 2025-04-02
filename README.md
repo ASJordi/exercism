@@ -140,6 +140,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/BottleSong.java">Bottle Song</a></li>
         <li><a href="java/src/main/java/medium/CollatzCalculator.java">Collatz Conjecture</a></li>
         <li><a href="java/src/main/java/medium/Etl.java">Etl</a></li>
+        <li><a href="java/src/main/java/medium/IsbnVerifier.java">Isbn Verifier</a></li>
       </ol>
     </details>
     <details>
