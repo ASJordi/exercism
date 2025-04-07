@@ -145,6 +145,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/Markdown.java">Markdown</a></li>
         <li><a href="java/src/main/java/medium/NucleotideCounter.java">Nucleotide Counter</a></li>
         <li><a href="java/src/main/java/medium/ParallelLetterFrequency.java">Parallel Letter Frequency</a></li>
+        <li><a href="java/src/main/java/medium/PigLatinTranslator.java">Pig Latin Translator</a></li>
       </ol>
     </details>
     <details>
