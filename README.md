@@ -149,6 +149,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="java/src/main/java/medium/Proverb.java">Proverb</a></li>
         <li><a href="java/src/main/java/medium/Robot.java">Robot</a></li>
         <li><a href="java/src/main/java/medium/School.java">School</a></li>
+        <li><a href="java/src/main/java/medium/SquareRoot.java">Square Root</a></li>
       </ol>
     </details>
     <details>
